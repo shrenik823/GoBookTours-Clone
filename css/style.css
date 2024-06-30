@@ -1,0 +1,59 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	text-decoration: none;
+	list-style: none;
+}
+.main{
+	width: 100%;
+}
+.header{
+	width: 100%;
+	height: auto;
+}
+.header-inner{
+	width: 1320px;
+	margin: auto;
+	padding: 20px;
+	height: 50px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	border: 1px solid black;
+}
+.logo{
+
+}
+.Menu>ul{
+	display: flex;
+	font-size: 20px;
+	gap: 30px;
+	color: #93776c;
+	font-weight: bold;
+}
+.Menu>ul>li>i{
+	margin-left: 7px;
+}
+.Menu{
+
+}
+.banner-section{
+	width: 100%;
+	padding-top: 40px;
+}
+.banner-section-inner{
+	width: 1320px;
+	margin: auto;
+	border: 1px solid red;
+}
+.left-section{
+	width: 850px;
+	border: 1px solid black;
+	background: url("../images/india-holidays.jpg") no-repeat;
+    
+}
+.right-section{
+	width:470px ;
+	ba
+
+}
